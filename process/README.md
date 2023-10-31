@@ -10,7 +10,7 @@ jurg lehni vectorama paper.js/ alison parrish
 
 **Go beyond drawing machin**e for this project
 
-think about physical touch and scale
+think about physical touch and scale'
 
 Make a **playful creative assistant** that encourage people to experiement 
 
