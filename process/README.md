@@ -127,3 +127,24 @@ montrer un contenu texte image ou vidéo demander à la personnes à qui ça lui
 [Vincent & Emily – Two robots in a relationship struggle and emotional conflict](https://www.creativeapplications.net/objects/vincent-emily-two-robots-in-a-relationship-struggle-and-emotional-conflict/)
 
 [Poetry Together](https://computationalmama.xyz/projects/poetrytogether/)
+
+[AATB – Practice for Non-Industrial Robotics](https://www.aatb.ch/archive/spare-pack)
+
+# 01.11.23
+Discussion avec les enseignants
+
+Maché plus le travaille, poser la question voir quelles sont les règles du périmètre ou la personne peut se déverser émotionnellement 
+Inventer un scenario qui permet de sortir des geste affectifs
+Et prototyper plus vite
+
+## Prototypage
+
+carte tiré “antonyms” “lead” “hand tracker” “extreme discretion”
+
+idée mettre sa mains dans une boîte et d’écrire l’Ai reconnais avec le hand tracking ce que la personne écrite. Mais pourquoi? quel est le contexte la story la derrière.
+![box poem](/process/Images/WhatsApp%20Image%202023-11-01%20à%2016.59.20_47ed10a5.jpg)
+
+Évolution → et si c’étais collaboratif chaque personne met sa mains dans la boîte et écrit un mot gentil en regardant la personne en face. l’Ai merge ensuite les deux texte ensemble pour réunir les émotions des deux participant.
+![box poem](/process/Images/WhatsApp%20Image%202023-11-01%20à%2016.59.20_53bb840a.jpg)
+![box poem](/process/Images/WhatsApp%20Image%202023-11-01%20à%2017.15.52_6610d8ca.jpg)
+![box poem](/process/Images/WhatsApp%20Image%202023-11-01%20à%2016.59.20_91be931c.jpg)
