@@ -74,14 +74,15 @@ Who are the artits you admire
 6. Avez-vous déjà eu une expérience où vous avez comparé vos créations à celles d'un autre artiste ou d'une autre personne ? Pourriez vous partager cette expérience ?
 7. Y a-t-il d'autres éléments que vous aimeriez ajouter ou discuter en relation avec votre parcours artistique ou les défis que vous rencontrez ?
 
-## Interviews disponible dans la présentation du 20.10
+## [Interviews disponible dans la présentation du 20.10](/presentations/20-10-23/La-comparaison-research-interviews.pdf)
 
 # 25.10.23 Note paper prototype
 
 Il faut toujours prototyper les interaction cela peut ‘etre à travers le dessin ou à travers une simulation de VR en vrai en utilisant le téléphone au lieu du casque. Au lieu de perdre du temps à coder ou a rentrer dans le temps. il faut tester les geste qui font sens de manière primaire. C’est un procédé standard dans le milieu. Fake the expérience sans se soucier des aspects techniques.
 
-## 30.10.23 Cf. présentation du 30.10 pour la transition de la "comparaison" à la "lettre d'amour" 
-# Recherche lettres d’amour/ mots affectueux
+## [30.10.23 Cf. présentation du 30.10 pour la transition de la "comparaison" à la "lettre d'amour"](/presentations/30-10-23/Jasmine_Comparaison_love-language.pdf) 
+
+# 31.10.23 Recherche lettres d’amour/ mots affectueux
 
 ## Kind words
 
@@ -108,7 +109,7 @@ Le jeu Kind words permet d’envoyer des mots gentilles anonyme dans une boîtes
 
 pour recevoir un mots doux il faut en écrire un pour la prochaine personnes
 
-### Test
+### Test utilisateur 
 
 montrer un contenu texte image ou vidéo demander à la personnes à qui ça lui fait pensée et est-ce qu’elle veut dire qqch à cette personne.
 
