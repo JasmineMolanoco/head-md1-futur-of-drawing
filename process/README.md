@@ -16,7 +16,7 @@ Make a **playful creative assistant** that encourage people to experiement
 
 think about the interaction concentrate on one gesture before adding anymore interaction
 
-# 16.10.23 Communication and interaction
+# 17.10.23 Communication and interaction
 
 ## User journey/ Scenario /Probes
 
@@ -81,3 +81,48 @@ Who are the artits you admire
 Il faut toujours prototyper les interaction cela peut ‘etre à travers le dessin ou à travers une simulation de VR en vrai en utilisant le téléphone au lieu du casque. Au lieu de perdre du temps à coder ou a rentrer dans le temps. il faut tester les geste qui font sens de manière primaire. C’est un procédé standard dans le milieu. Fake the expérience sans se soucier des aspects techniques.
 
 ## 30.10.23 Cf. présentation du 30.10 pour la transition de la "comparaison" à la "lettre d'amour" 
+# Recherche lettres d’amour/ mots affectueux
+
+## Kind words
+
+Le jeu Kind words permet d’envoyer des mots gentilles anonyme dans une boîtes aux lettres communes. Ou d’échanger des lettres avec un inconnu.
+
+[Kind Words (lo fi chill beats to write to)](https://store.steampowered.com/app/1070710/Kind_Words_lo_fi_chill_beats_to_write_to/)
+
+### Questions
+- Le faite d’avoir un espace affectifs communs peut être intéressant
+- Trouver un moyen de motiver les gens à écrire des mots doux
+- Quelles sont les personnes visée?
+- Est-ce une pratique commune aujourd’hui
+- Quelle forme cette action prend au jour d’aujourd’hui ?
+- Est-ce que c’est communautaire ou personnel?
+- Est-ce relier à l’amour ou juste des geste affectifs?
+- pourquoi serais t ‘on gentil envers un étranger ?
+- Regarder quelle mots texte ou geste génère quel émotions  (vidéos de qqn qui coupe du sable ou le tweet de certaines personnes)
+- quelle est le rapport au touché?
+- est-ce qu’on raconte une histoire
+- Inversé la relation de pouvoir entre l’AI et l’humain
+- Comment une Ai peut exprimer des sentiments ou de l’affection?
+
+### idée
+
+pour recevoir un mots doux il faut en écrire un pour la prochaine personnes
+
+### Test
+
+montrer un contenu texte image ou vidéo demander à la personnes à qui ça lui fait pensée et est-ce qu’elle veut dire qqch à cette personne.
+
+### Retours
+
+### Références
+
+(langage marketing comment séduire le consommateurs)
+(Rapport au langage sur les réseaux sociaux)
+
+[Platform Sweet Talk](https://platformsweettalk.com/)
+
+[Mother Machines](https://computationalmama.xyz/projects/mother-machines/)
+
+[Vincent & Emily – Two robots in a relationship struggle and emotional conflict](https://www.creativeapplications.net/objects/vincent-emily-two-robots-in-a-relationship-struggle-and-emotional-conflict/)
+
+[Poetry Together](https://computationalmama.xyz/projects/poetrytogether/)
