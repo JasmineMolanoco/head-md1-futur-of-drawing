@@ -148,6 +148,7 @@ idée mettre sa mains dans une boîte et d’écrire l’Ai reconnais avec le ha
 ![box poem](/process/Images/WhatsApp%20Image%202023-11-01%20à%2016.59.20_53bb840a.jpg)
 ![box poem](/process/Images/WhatsApp%20Image%202023-11-01%20à%2017.15.52_6610d8ca.jpg)
 ![box poem](/process/Images/WhatsApp%20Image%202023-11-01%20à%2016.59.20_91be931c.jpg)
+Test With Dasha and I. We are friends so obvously the texts would be nice. I think the initial demande has to be clearer because it is asking to much to juste say something nice without guidance or real incentive behind it. The fact that you have to look at the other person while they cannot see what you wright is also quit uncofortable. ¯\ _(ツ)_/¯
 
 # 02.11.23 Idée Prototype
 ![Build you story](/process/Images/playdoughIdea.jpg)
