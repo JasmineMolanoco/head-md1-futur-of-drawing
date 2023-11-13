@@ -152,3 +152,106 @@ Test With Dasha and I. We are friends so obvously the texts would be nice. I thi
 
 # 02.11.23 Idée Prototype
 ![Build you story](/process/Images/playdoughIdea.jpg)
+
+## 11.11.23
+
+### Idées 1
+
+You create a character with craft supplies.
+Then you put it on the writing table
+The assistant ask you to shortly describe your character and it accompagne you to write a letter for that character maybe its a fictional beeing maybe it is someone you know. Once the letter is written you can print it or directly send it to a person you know.
+
+### Insights
+
+Les utilisateurs veulent une récompense pour leurs participations. Ils sont plus créatif lorsqu'il y a un certain nombre de règles cela pose un défis. Mais l'utilisateur doit comprendre rapidement ce qu'il doit faire pour rester engagé dans l'interaction.
+
+Réf from: **Form magazine 269 – Play**
+
+Studio Monikier’s article page 61
+![Form magazin Studio Moniker interview](/process/Images/StudioMoniker.jpg)
+
+### Qu’est-ce qui peut motiver les utilisateur à écrire avec une IA ?
+
+**Expression émotionnelle** : Ils pourraient voir cette expérience comme une opportunité d'exprimer leurs sentiments et expériences personnelles d'une manière créative.
+
+**Connexion personnelle** : Contribuer à la création d'une histoire ou d'une lettre personnalisée sur des thèmes tels que l'amour, l'affection ou l'amitié peut créer une connexion émotionnelle, permettant aux utilisateurs de se sentir compris et valorisés.
+
+**Cadeau** : L'idée de créer quelque chose de spécial pour un être cher peut être une motivation. La lettre ou l'histoire personnalisée pourrait être utilisée comme un cadeau unique et significatif.
+
+**Exploration créative** : Certains utilisateurs pourraient être intrigués par l'aspect créatif de l'intelligence artificielle et être curieux de voir comment leurs expériences personnelles sont interprétées et transformées en une histoire positive.
+
+**Bien-être émotionnel :** La possibilité de réfléchir à des moments positifs et de partager des expériences joyeuses peut contribuer au bien-être émotionnel des utilisateurs.
+
+### Questionnaire Instagram
+
+J’aimerais vérifier si les personnes se confis facilement à leurs proches et quel genre de geste affectifs sont significatif pour eux.
+
+J’aimerais aussi voir comment ils se projettent sur des personnages de fictions et quels sentiments s’y rattache
+
+1. Quand tu regardes un film/série est-ce que tu t'identifie facilement à un certain type de personnages ?
+2. Si oui pourquoi
+3. A tu de la facilité à monter de l'affection à tes proches ?
+4. Quel petit geste fait tu pour montrer à que tu penses à cette personne ?
+5. Quelle geste montre que quelqu'un pense à toi?
+6. Avec lequel de tes proches communiques tu le plus facilement?
+
+### Résultats questionnaire
+
+1. Quand tu regardes un film/série est-ce que tu t'identifie facilement à un certain type de personnages ?
+![Question 1](/process/Images/qInsta1.jpg)
+2. Si oui pourquoi
+![Question 2](/process/Images/qInsta2.jpg)
+3. A tu de la facilité à monter de l'affection à tes proches ?
+![Question 3](/process/Images/qInsta3.jpg)
+4. Quel petit geste fait tu pour montrer à que tu penses à cette personne ?
+![Question 4](/process/Images/qInsta4.jpg)
+5. Quelle geste montre que quelqu'un pense à toi?
+![Question 5](/process/Images/qInsta5.jpg)
+6. Avec lequel de tes proches communiques tu le plus facilement?
+![Question 6](/process/Images/qInsta6.jpg)
+
+
+## 12.11.23
+
+### Idées 2
+
+[Our Friends Electronics](https://vimeo.com/235720958)
+
+Cette vidéo satirique illustre une IA assistant (Alexa Siri..) avec une personnalité personnalisable.
+![Our Friends Electronics](/process/Images/OurFriendsElectronics.jpg)
+
+Cette interface m’a donner l’idée de créer une IA qui écrit un poème par rapport à la personnalité donné par l'utilisateur, cela permettrait de créer un poème unique, et d’engager l’utilisateur à travers l’idées de paramètre contrôler de découvrir comment l’IA interprète certaines émotions sur un medium comme l’écriture. Cela permet de facilité l’écriture et de la pratiquer sans pression, cela permet également de garder un souvenir ou d’offrir un poème à quelqu’un.
+
+## 13.11.23
+
+## idée 1 “Playdoh Stories” test utilisateurs sur le prototype
+![Playdoh Stories](/process/Images/playdoughStory1.jpg)
+![Playdoh Stories](/process/Images/playdoughStory2.jpg)
+![Playdoh Stories](/process/Images/playdoughStory3.jpg)
+![Playdoh Stories](/process/Images/playdoughStory4.jpg)
+
+### Retours du test
+
+"Before beginning, she asks if the creation can be anything she wants.
+The story written by ChatGPT makes her laugh.
+It was very fun, but she thinks she wasn't creative and made a carrot based on the playdough colors. This is not a usual material unless you have a lot of time; the creation will be simple.
+The story was fun.
+It wasn't very clear in the text; the word “sujet” should be replaced by “objet.” Give more instructions in the beginning.
+For the text, she would just read it and go on with her day; it's not personal enough, so no reason to keep it.
+What is her motivation? Why would it be interesting for someone to do this and get a story?
+She thinks adults would not really enjoy it. Maybe kids would be more interested. She has no emotional connection.
+The stress of, 'Oh my god, what am I gonna do?' You think about the object directly in relation to the story that would be produced.
+She would feel more implicated if she creates a character. Maybe drawing instead; playdough takes too much time."
+
+## Idée 2 “Radio Poème” test utilisateurs sur le prototype
+
+### Retours du test
+
+![Radio Poème](/process/Images/radioPoem1.jpg)
+![Radio Poème](/process/Images/radioPoem2.mp4)
+"It can be fun, needs a button to confirm the choice. Else, it was quite clear.
+She would give the poem to someone just for a laugh, depending on if she likes it.
+It's straight forward; you understand it easily, and she likes that she doesn't need to think too much.
+She will do it several times to see the different texts, to see what's going to change.
+She thinks we should choose to print it or not.
+She used to write letters; she likes that it’s personal. She likes writing postcards, wishing good stuff."
