@@ -211,7 +211,7 @@ J’aimerais aussi voir comment ils se projettent sur des personnages de fiction
 ![Question 6](/process/Images/qInsta6.jpg)
 
 
-## 12.11.23
+# 12.11.23
 
 ### Idées 2
 
@@ -222,7 +222,7 @@ Cette vidéo satirique illustre une IA assistant (Alexa Siri..) avec une personn
 
 Cette interface m’a donner l’idée de créer une IA qui écrit un poème par rapport à la personnalité donné par l'utilisateur, cela permettrait de créer un poème unique, et d’engager l’utilisateur à travers l’idées de paramètre contrôler de découvrir comment l’IA interprète certaines émotions sur un medium comme l’écriture. Cela permet de facilité l’écriture et de la pratiquer sans pression, cela permet également de garder un souvenir ou d’offrir un poème à quelqu’un.
 
-## 13.11.23
+# 13.11.23
 
 ## idée 1 “Playdoh Stories” test utilisateurs sur le prototype
 ![Playdoh Stories](/process/Images/playdoughStory1.jpg)
@@ -247,11 +247,41 @@ She would feel more implicated if she creates a character. Maybe drawing instead
 
 ### Retours du test
 
-![Radio Poème](/process/Images/radioPoem1.jpg)
-![Radio Poème](/process/Images/radioPoem2.mp4)
+![Radio Poème](/process/Images/PoemeRadio1.jpg)
+![Radio Poème](/process/Images/PoemeRadio2.mp4)
 "It can be fun, needs a button to confirm the choice. Else, it was quite clear.
 She would give the poem to someone just for a laugh, depending on if she likes it.
 It's straight forward; you understand it easily, and she likes that she doesn't need to think too much.
 She will do it several times to see the different texts, to see what's going to change.
 She thinks we should choose to print it or not.
 She used to write letters; she likes that it’s personal. She likes writing postcards, wishing good stuff."
+
+### Retour generale de Laure
+- Pour que l’ia soit plus créatif il lui faut plus de variation dans les sujet peut être juste amener des formes et des couleur pour créer un input physique
+- Laisser l'IA interpreter des objets plus abstrait pour générer plus d'alétoire dans les textes 
+- Trouver des objets archétype radio machines à écrire etc... pour la forme de la machine
+- Orienter sur la narration plutôt que sur l'émotion
+- Rester playfull à la [Pinaffo et Pulvinage](https://pinaffo-pluvinage.com/)
+![Input shapes and colors](/process/Images/ShapesColor.png)
+
+# 14.11.23
+
+## Prototype 1 Shape and color story
+![Shape and color story](/process/Images/shapeColorStory1.jpg)
+![Shape and color story](/process/Images/shapeColorStory2.jpg)
+
+### Retour de Laure
+
+- trop de case a remplir de manière trop concrète
+- pas besoin de séparer la forme et la couleur
+- simplifier la grilles 
+- pas un mélange de forme et de couleur
+- Soit choisir une écriture formel abstraite soit un langages concret (emoji)
+- rester plus strict dans le dessin des formes plus graphique
+- les plots dans le principe d’interaction
+
+
+## Prototype 2 Shape to Story
+![Shape to Story](/process/Images/shapeToStory1.jpg)
+![Shape to Story](/process/Images/shapeToStory2.jpg)
+![Shape to Story](/process/Images/shapeToStory3.jpg)
