@@ -248,7 +248,8 @@ She would feel more implicated if she creates a character. Maybe drawing instead
 ### Retours du test
 
 ![Radio Poème](/process/Images/PoemeRadio1.jpg)
-![Radio Poème](/process/Images/PoemeRadio2.mp4)
+![Radio Poème](/process/Images/poemeRadio2.mp4)
+
 "It can be fun, needs a button to confirm the choice. Else, it was quite clear.
 She would give the poem to someone just for a laugh, depending on if she likes it.
 It's straight forward; you understand it easily, and she likes that she doesn't need to think too much.
@@ -267,8 +268,12 @@ She used to write letters; she likes that it’s personal. She likes writing pos
 # 14.11.23
 
 ## Prototype 1 Shape and color story
-![Shape and color story](/process/Images/shapeColorStory1.jpg)
-![Shape and color story](/process/Images/shapeColorStory2.jpg)
+![Shape and color story](/process/Images/shapeColorToStory1.jpg)
+![Shape and color story](/process/Images/shapeColorToStory2.jpg)
+
+Version sans le texte pour voir si les utilisaterus comprennent le principe, sans être limité par les paramètres de l'histoire.
+Resultat: l'utilisatrice n'a rien compris et pensais que c'étais un jeu de puzzle :)
+
 
 ### Retour de Laure
 
@@ -288,3 +293,24 @@ She used to write letters; she likes that it’s personal. She likes writing pos
 
 # 15.11.23
 Worked on the prsentation for the 16.11.23 all day
+
+# 16.11.23 presentation with Carand d'Ache
+[Inter presentation](/presentations/2023-11-16/HEAD-MD1_Caran-d-Ache_Molano-Jasmine_Inter/HEAD-MD1_Caran-d-Ache_Molano-Jasmine_Inter.pdf)
+
+## feedbacks
+**Laure**
+social media field research quite interesting. Output more interesting if it takes different shapes. Go also back to your field observations with social media, there are interesting things that are not present anymore in current protoytype
+Shapes should have similar identidies like piktograms on the box, design a gerneral consistent ecosystem.
+Shapes become something in 3D, think about the feel touch, jelly like, hard, translucive different material qualities can generate different outputs.
+At the moment they feel like two worlds that don’t yet go together.
+
+**Douglas**
+Clear visual language also helps with the storytelling aspect.
+doesnt like icon at the side
+
+**Alexia**
+does it have to be two-faced?
+at the moment it feels seperated
+
+
+
