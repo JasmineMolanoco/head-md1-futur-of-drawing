@@ -285,3 +285,6 @@ She used to write letters; she likes that it’s personal. She likes writing pos
 ![Shape to Story](/process/Images/shapeToStory1.jpg)
 ![Shape to Story](/process/Images/shapeToStory2.jpg)
 ![Shape to Story](/process/Images/shapeToStory3.jpg)
+
+# 15.11.23
+Worked on the prsentation for the 16.11.23 all day
