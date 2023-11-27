@@ -12,3 +12,13 @@ AI creative assistant project
 ## Pole Instagram
 I wanted to se what where the most used plateform and what type of "message" user send to their loved ones. Frome the findings I can study the most popular outcomes to get inspired by the way we comminicate with each other and how It could be translate into a language understandable by a the user by not completely graspable by the machine.
 
+### Which app do you use the most to communicate with your loved ones?
+![Pole Instagram](/process/Images/Insta-pole-23-11-15.jpg)
+The other apps are Lines, telegrame, signal and some people used specific apps just for certain people.
+
+
+### Which type of "message" do you use the most to your loved ones?
+![Pole Instagram](/process/Images/Insta-pole2-23-11-15.jpg)
+
+Les gens utilisent plus les messages écrits sur whatsapp. Ce pole est un peu trop limité pour obtenir des insight plus intéressant il en ressors juste ce que l'on attendait...
+
