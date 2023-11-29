@@ -312,5 +312,39 @@ doesnt like icon at the side
 does it have to be two-faced?
 at the moment it feels seperated
 
+# 22.11.23 Croquis & Insta pole
+1. What if we interact wih the object like a fridge where we put our thoughts, some trinkets, some pictures, some magnets, some notes, some drawings, some postcards, some stickers, some souvenirs, some mag. Once we made our compo the Ai tells a story about it (oraly).
+2. The user register a vocal message and the height of the sound waves the lenght of the messages and the tone of the voice will be parametera to create a story.
+![alt tag](/process/Images/FridgeMagnet-VocalCroquis.jpg)
+
+## Pole Instagram
+I wanted to se what where the most used plateform and what type of "message" user send to their loved ones. Frome the findings I can study the most popular outcomes to get inspired by the way we comminicate with each other and how It could be translate into a language understandable by a the user by not completely graspable by the machine.
+
+### Which app do you use the most to communicate with your loved ones?
+![Pole Instagram](/process/Images/Insta-pole-23-11-15.jpg)
+
+The other apps are Lines, telegrame, signal and some people used specific apps just for certain people.
 
 
+### Which type of "message" do you use the most to your loved ones?
+![Pole Instagram](/process/Images/Insta-pole2-23-11-15.jpg)
+
+Les gens utilisent plus les messages écrits sur whatsapp. Ce pole est un peu trop limité pour obtenir des insight plus intéressant il en ressors juste ce que l'on attendait...
+
+# 27.11.23 idée & shéma electro
+En cours d'electro Pierre à mentionné qu'l était possible d'utiliser de la lumière ultraviolet pour revelet de l'encre invisible. Cela m'a fait penser que l'on pourrait reveler les non dits les sous entendus de la conversation entre mon Ai et l'utilisateur et mettre en lumière (haha) tous ce qui est perdu dans dans la traduction et l'interpretation de l'Ai.
+
+## electro Scheme kinda
+![electro sheme tentative](/process/Images/electro-scheme-kinda.jpg)
+
+# 27 - 29.11.23 Electro basics
+learned a lot of cool new stuff I never touched to arduino before. I compiled all my little practice exercices in this folder ->
+[Electronic basic exercices](/electronics/Basic-code/)
+
+# 29.11.23 Emoji pole
+
+J'ai demander sur insta qu'on m'envoie un screen des emojis les plus utilisés. J'aimerais voir si j'arrive à interpreter un language/ code de la personnes. Pas seulement voir quels emoji sont le plus récurents mais plutot m'imaginée ce que le toutes racontes sur la manière dont la personne s'éxprimes.
+
+## réponses
+Pour l'instant j'ai 18 réponses
+![Emojis](/process/Images/Emojis-screens-results.jpg)
