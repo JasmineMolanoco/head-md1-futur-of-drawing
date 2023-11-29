@@ -17,3 +17,21 @@ AI creative assistant project
 [02.11.23 Idée Prototype](https://github.com/Milonade/head-md1-futur-of-drawing/tree/master/process#021123-id%C3%A9e-prototype)
 
 [11.11.23 Recherches et questionnaire](https://github.com/Milonade/head-md1-futur-of-drawing/tree/master/process#111123-recherches-et-questionnaire)
+
+[12.11.23 Prototypage](https://github.com/Milonade/head-md1-futur-of-drawing/tree/master/process#121123-prototypage)
+
+[13.11.23 Prototypage](https://github.com/Milonade/head-md1-futur-of-drawing/tree/master/process#131123-prototypage)
+
+[14.11.23 Prototypage](https://github.com/Milonade/head-md1-futur-of-drawing/tree/master/process#141123-prototypage)
+
+[15.11.23](https://github.com/Milonade/head-md1-futur-of-drawing/tree/master/process#151123)
+
+[16.11.23 presentation with Caran d'Ache](https://github.com/Milonade/head-md1-futur-of-drawing/tree/master/process#161123-presentation-with-caran-dache)
+
+[22.11.23 Croquis & Insta pole](https://github.com/Milonade/head-md1-futur-of-drawing/tree/master/process#221123-croquis--insta-pole)
+
+[27.11.23 idée & shéma electro](https://github.com/Milonade/head-md1-futur-of-drawing/tree/master/process#271123-id%C3%A9e--sh%C3%A9ma-electro)
+
+[27 - 29.11.23 Electro basics](https://github.com/Milonade/head-md1-futur-of-drawing/tree/master/process#27---291123-electro-basics)
+
+[29.11.23 Emoji pole](https://github.com/Milonade/head-md1-futur-of-drawing/tree/master/process#291123-emoji-pole)
