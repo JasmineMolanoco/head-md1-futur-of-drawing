@@ -130,7 +130,8 @@ montrer un contenu texte image ou vidéo demander à la personnes à qui ça lui
 
 [AATB – Practice for Non-Industrial Robotics](https://www.aatb.ch/archive/spare-pack)
 
-# 01.11.23
+# 01.11.23 Discussion & prototypage
+
 Discussion avec les enseignants
 
 Maché plus le travaille, poser la question voir quelles sont les règles du périmètre ou la personne peut se déverser émotionnellement 
@@ -153,7 +154,7 @@ Test With Dasha and I. We are friends so obvously the texts would be nice. I thi
 # 02.11.23 Idée Prototype
 ![Build you story](/process/Images/playdoughIdea.jpg)
 
-## 11.11.23
+# 11.11.23 Recherches et questionnaire
 
 ### Idées 1
 
