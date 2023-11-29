@@ -212,7 +212,7 @@ J’aimerais aussi voir comment ils se projettent sur des personnages de fiction
 ![Question 6](/process/Images/qInsta6.jpg)
 
 
-# 12.11.23
+# 12.11.23 Prototypage
 
 ### Idées 2
 
@@ -223,7 +223,7 @@ Cette vidéo satirique illustre une IA assistant (Alexa Siri..) avec une personn
 
 Cette interface m’a donner l’idée de créer une IA qui écrit un poème par rapport à la personnalité donné par l'utilisateur, cela permettrait de créer un poème unique, et d’engager l’utilisateur à travers l’idées de paramètre contrôler de découvrir comment l’IA interprète certaines émotions sur un medium comme l’écriture. Cela permet de facilité l’écriture et de la pratiquer sans pression, cela permet également de garder un souvenir ou d’offrir un poème à quelqu’un.
 
-# 13.11.23
+# 13.11.23 Prototypage
 
 ## idée 1 “Playdoh Stories” test utilisateurs sur le prototype
 ![Playdoh Stories](/process/Images/playdoughStory1.jpg)
@@ -266,7 +266,7 @@ She used to write letters; she likes that it’s personal. She likes writing pos
 - Rester playfull à la [Pinaffo et Pulvinage](https://pinaffo-pluvinage.com/)
 ![Input shapes and colors](/process/Images/ShapesColor.png)
 
-# 14.11.23
+# 14.11.23 Prototypage
 
 ## Prototype 1 Shape and color story
 ![Shape and color story](/process/Images/shapeColorToStory1.jpg)
@@ -292,8 +292,8 @@ Resultat: l'utilisatrice n'a rien compris et pensais que c'étais un jeu de puzz
 ![Shape to Story](/process/Images/shapeToStory2.jpg)
 ![Shape to Story](/process/Images/shapeToStory3.jpg)
 
-# 15.11.23
-Worked on the prsentation for the 16.11.23 all day
+# 15.11.23 
+Worked on the presentation for the 16.11.23 all day
 
 # 16.11.23 presentation with Caran d'Ache
 [Inter presentation](/presentations/2023-11-16/HEAD-MD1_Caran-d-Ache_Molano-Jasmine_Inter/HEAD-MD1_Caran-d-Ache_Molano-Jasmine_Inter.pdf)
