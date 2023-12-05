@@ -35,3 +35,7 @@ AI creative assistant project
 [27 - 29.11.23 Electro basics](https://github.com/Milonade/head-md1-futur-of-drawing/tree/master/process#27---291123-electro-basics)
 
 [29.11.23 Emoji pole](https://github.com/Milonade/head-md1-futur-of-drawing/tree/master/process#291123-emoji-pole)
+
+[01.12.23 Recherche sur les emojis et texte messages](https://github.com/Milonade/head-md1-futur-of-drawing/tree/master/process#011223-recherche-sur-les-emojis-et-texte-messages)
+
+[04.12.23 Point avec Laure et Pierre & concept](https://github.com/Milonade/head-md1-futur-of-drawing/tree/master/process#041223-point-avec-laure-et-pierre)
