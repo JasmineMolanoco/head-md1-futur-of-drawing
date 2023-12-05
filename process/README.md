@@ -349,3 +349,48 @@ J'ai demander sur insta qu'on m'envoie un screen des emojis les plus utilisés. 
 ## réponses
 Pour l'instant j'ai 18 réponses
 ![Emojis](/process/Images/Emojis-screens-results.jpg)
+
+# 01.12.23 Recherche sur les emojis et texte messages
+
+[Une histoire sans mots, le roman en pictogrammes de Xu Bing](https://actualitte.com/article/53384/television/une-histoire-sans-mots-le-roman-en-pictogrammes-de-xu-bing)
+
+[A Systematic Review of Emoji: Current Research and Future Perspectives](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02221/full)
+
+## What’s up switzerland
+[Anzeige von What’s up, Switzerland? A corpus-based research project in a multilingual country](https://bop.unibe.ch/linguistik-online/article/view/3849/5834)
+
+![Whats up switzerland 1](/process/Images/whats-up-CH-1.jpg)
+![Whats up switzerland 2](/process/Images/whats-up-CH-2.jpg)
+
+# 04.12.23 Point avec Laure et Pierre
+
+il manque un élément pour accéder à internet, ajouter un shield wifi ou utiliser un esp 32 avec partage de co
+
+Entraîner un system avec les valeur d’entrée puis les envoyer à une APi type Chta GPT
+
+Écran pas écran peut changer bcp en therme de visu et interface il est possible de vulgariser ou de simplifier ce langage
+
+Insérer les shapes dans des slot ou faire des magnets
+
+Object vertical ou horizontal
+
+output imprimer qui est écrit ou narration au ton neutre 
+
+encre invisible pas possible pour l’imprimante
+
+quel est l’échelle de l’objet dans le cadre de l'expo
+
+## Fridge like object
+
+Je me base sur mon idéee du frigo [Sketch du 22.11](https://github.com/Milonade/head-md1-futur-of-drawing/tree/master/process#221123-croquis--insta-pole). C'est un principe un peu nostalgique, un foyer partage et communique sur la porte du frigo eavec des aimants des carte postals, des pos-it des dessins... C'est une manière de separler qui est très écléctique et personnel. Je veux donc m'inspirer des la forme du frigo et de son principe d'intéraction pour mon assistant AI. 
+
+Je vais dévelloper des aimants basé sur les émojis qui reflètent certaines émotions et certains objets abstrait et concret. Je vais également créer une série de picto pour que l'IA réagisse à l'intéraction de l'utilisateur en temps réel sur la surface du "frigo". Une fois les X aimants placer l'IA imprime l'histoire créer à partir des émojis et des pictos.
+
+### Croquis
+![Fridge like object](/process/Images/Fridge-croquis.jpg)
+
+### Inspi frigo
+
+![Fridge Smeg](/process/Images/Smeg-fridge.jpg)
+![Fridge Xbox](/process/Images/xbox-fridge.jpeg)
+![Ai interface Moon 2009, movie](/process/Images/moon-movie-AI.jpg)
