@@ -39,3 +39,5 @@ AI creative assistant project
 [01.12.23 Recherche sur les emojis et texte messages](https://github.com/Milonade/head-md1-futur-of-drawing/tree/master/process#011223-recherche-sur-les-emojis-et-texte-messages)
 
 [04.12.23 Point avec Laure et Pierre & concept](https://github.com/Milonade/head-md1-futur-of-drawing/tree/master/process#041223-point-avec-laure-et-pierre)
+
+[14.12.23 Testing day](https://github.com/Milonade/head-md1-futur-of-drawing/tree/master/process#141223-testing-day)

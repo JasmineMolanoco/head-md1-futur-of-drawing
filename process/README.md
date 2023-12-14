@@ -441,6 +441,8 @@ Je vais dévelloper des aimants basé sur les émojis qui reflètent certaines �
 
 - Questioning the Use of Emoji for Text: The user questions the choice of using emoji to generate text, raising curiosity about the underlying purpose or motivation behind this design choice.
 
+![Test 1](/process/Images/Testin-day-v1.jpg)
+
 ### With the feedbacks from the first test and the help of the teachers I inprove the prototype and made a second test in the afternoon
 
 ## Retours deuxième test
@@ -464,3 +466,12 @@ Je vais dévelloper des aimants basé sur les émojis qui reflètent certaines �
 - Why most used emojis ? 
 
 - Paper printed - first thought it was prédiction
+
+![Test 2](/process/Images/Testin-day-v2-1.jpg)
+![Test 2](/process/Images/Testin-day-v2-2.jpg)
+![Test 2](/process/Images/Testin-day-v2.jpg)
+
+## Redirection du projet
+
+Entre le premier et le deuxième teste j'ai attribuer des catégorie pour rendre l'intéraction plus clair entre l'IA et le user. Je dois develloper plus clairement les catégories pour que l'utilisateur devine mieux ce qu'il se passe (personnage, émotion, lieu etc.) et attribuer un style d'emoji à mettre dans cette catégorie.Je dois aussi dévelloper un style de picto plus abstrait moins evocatif plus poétique, qui fonctionne à travers la surface perforé.
+
