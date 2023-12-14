@@ -394,3 +394,73 @@ Je vais dévelloper des aimants basé sur les émojis qui reflètent certaines �
 ![Fridge Smeg](/process/Images/Smeg-fridge.jpg)
 ![Fridge Xbox](/process/Images/xbox-fridge.jpeg)
 ![Ai interface Moon 2009, movie](/process/Images/moon-movie-AI.jpg)
+
+# 14.12.23 Testing day
+
+## Mes questions
+
+1. Est-ce que l’utilisateur comprend qu’il doit poser les aimants sur la surface
+2. Est-ce que l’utilisateur comprend que l’IA lui répond lorsqu’on pose un emoji
+3. Est-ce que l’utilisateur comprend que le but de l’interaction est d’écrire une histoire
+4. Est-ce qu’il est confus par les réponse de l’IA et test plusieurs configuration d’émoji
+
+
+## Scénarios
+
+1. L’utilisateur voit la boîte d’emoji en face de la surface
+2. Il colle un magnet sur la surface
+3. Il observe qu’un picto apparaît
+4. Il déplace le magnet pour voir si le picto change (il ne change pas)
+5. Il pose un nouveau magnet et voit qu’un nouveau picto apparaît
+6. Il en pose 4 et voit que le bouton print s’allume en vert 
+7. Il ajoute un picto et voit que le bouton print redeviens rouge et qu’aucun nouveau picto apparaît
+8. Il enlève le 5e et presse le bouton print
+9. Il est étonné que le résultat soit un texte et pas une illustration
+10. Il essais avec une nouvelle configuration pour obtenir une nouvelle histoire
+
+## Retours premier test
+(notes sumarized by chat gpt :)
+
+- Diverse Output: The user finds it strange to have different kinds of output, indicating a preference for consistency.
+
+- Intrigued by Interaction: There is more intrigue in the interaction itself rather than the textual output, emphasizing a desire for a captivating experience.
+
+- Frustration with Miscommunication: There's a sense of frustration due to the perceived challenge in communicating effectively through the interaction.
+
+- Icon Intrigue vs. Output Disinterest: The user finds the icons intriguing, but the textual output is not as engaging, highlighting a potential mismatch in expectations.
+
+- Interest in Aesthetics and Language: There's an interest in the aesthetics and language, suggesting a desire for a visually appealing and linguistically rich experience.
+
+- Feedback Disconnect: The user mentions a disconnect in feedback, emphasizing that too much text is provided, and it doesn't seem related to the interaction.
+
+- Paper vs. Screen Questioning: There's curiosity about the choice of paper over a screen for the text, implying a desire for understanding the rationale behind this decision.
+
+- Icons and Emoji Relationship: The user suggests finding a clearer relationship between icons and emoji, hinting at a desire for a more cohesive and intuitive interaction.
+
+- Emoji Kitchen Reference: There's a reference to Emoji Kitchen, suggesting a potential source of inspiration or comparison for the interaction.
+
+- Questioning the Use of Emoji for Text: The user questions the choice of using emoji to generate text, raising curiosity about the underlying purpose or motivation behind this design choice.
+
+### With the feedbacks from the first test and the help of the teachers I inprove the prototype and made a second test in the afternoon
+
+## Retours deuxième test
+
+- Maria Didn’t see the color on the fridge at first
+
+- Goal - create a story with the A.I
+
+- If the A.I show the result live ? 
+
+- Ask for the hierarchie des catégories (why like that ?)
+
+- Didn’t understand first the idea of the magnet but find it logical at the end
+
+- Not so clear to put the magnet on the fridge
+
+- Why the symbol of the + ? (Nonsense but not usefull)
+
+- Communication image through text beautifull but need more context
+
+- Why most used emojis ? 
+
+- Paper printed - first thought it was prédiction
