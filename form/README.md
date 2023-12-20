@@ -17,8 +17,8 @@ I. Alimentation et câbles
 
 (image in 3D prototype folders "Storytelling-Fridge")
 ![Storytelling-Fridge](/form/3D-prototypes/Storytelling-Fridge.png)
-![Storytelling-Fridge Frame](/form/3D-prototypes/Storytelling-Fridge-MDF.png)
 ![Storytelling-Fridge Frame](/form/3D-prototypes/Storytelling-Fridge-Frame.png)
 ![Storytelling-Fridge Frame height](/form/3D-prototypes/Storytelling-Fridge-Frame-Height.png)
-![Storytelling-Fridge Electronics](/form/3D-prototypes/Storytelling-Fridge-Inside-Electronics.png)
+![Storytelling-Fridge Frame](/form/3D-prototypes/Storytelling-Fridge-MDF.png)
 ![Storytelling-Fridge Back panel and plexi](/form/3D-prototypes/Storytelling-Fridge-BackPanel-Plexi.png)
+![Storytelling-Fridge Electronics](/form/3D-prototypes/Storytelling-Fridge-Inside-Electronics.png)
