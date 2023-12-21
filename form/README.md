@@ -15,10 +15,16 @@ G. Rasberry Pi / 88x58x19.5mm / à l'intérieur du cadre en bois pas visible au 
 H. Back panel en bois peint / 667x377mm épaisseur 3mm / à l'arrière du cadre en bois
 I. Alimentation et câbles
 
-(image in 3D prototype folders "Storytelling-Fridge")
 ![Storytelling-Fridge](/form/3D-prototypes/Storytelling-Fridge.png)
 ![Storytelling-Fridge Frame](/form/3D-prototypes/Storytelling-Fridge-Frame.png)
 ![Storytelling-Fridge Frame height](/form/3D-prototypes/Storytelling-Fridge-Frame-Height.png)
 ![Storytelling-Fridge Frame](/form/3D-prototypes/Storytelling-Fridge-MDF.png)
 ![Storytelling-Fridge Back panel and plexi](/form/3D-prototypes/Storytelling-Fridge-BackPanel-Plexi.png)
 ![Storytelling-Fridge Electronics](/form/3D-prototypes/Storytelling-Fridge-Inside-Electronics.png)
+
+## new version eith frame
+
+![Storytelling-Fridge](/form/3D-prototypes/Storytelling-Fridge-Rounded.png)
+![Storytelling-Fridge Frame](/form/3D-prototypes/Storytelling-Fridge-Rounded-no-edge.png)
+![Storytelling-Fridge back](/form/3D-prototypes/Storytelling-Fridge-Rounded-back.png)
+![Storytelling-Fridge inside](/form/3D-prototypes/Storytelling-Fridge-Rounded-inside.png)
