@@ -395,6 +395,13 @@ Je vais dévelloper des aimants basé sur les émojis qui reflètent certaines �
 ![Fridge Xbox](/process/Images/xbox-fridge.jpeg)
 ![Ai interface Moon 2009, movie](/process/Images/moon-movie-AI.jpg)
 
+# 13.12.23 qu'est-ce qui est important dans mon intercation
+Aprèe plusieurs discussion sur la faisabilité technique du projet je me suis retrouver assez perdu, car je ne peu utiliser le principes des aimants à cause de la plaque en métal qui interfaire avce les capteurs nfc. Si je veux garder les aimant la solution est peut 'etre un plus petit écran
+
+Après Discussion avec Laure et Douglas je me sui rendu compte que ce qui étais important dans mon interaction est que l'IA répondre sur la même surface ou l'utilisateur pose ses Emojis. La solution trouvée est d'utilisé la plaque perforer comme surface pour accrocher mes Emojis commes des legos
+
+[Lego like fixation](/process/PDF/head–md–future–of-drawing-jasmine-des-lk-2023-12-14.pdf)
+
 # 14.12.23 Testing day
 
 ## Mes questions
@@ -473,5 +480,5 @@ Je vais dévelloper des aimants basé sur les émojis qui reflètent certaines �
 
 ## Redirection du projet
 
-Entre le premier et le deuxième teste j'ai attribuer des catégorie pour rendre l'intéraction plus clair entre l'IA et le user. Je dois develloper plus clairement les catégories pour que l'utilisateur devine mieux ce qu'il se passe (personnage, émotion, lieu etc.) et attribuer un style d'emoji à mettre dans cette catégorie.Je dois aussi dévelloper un style de picto plus abstrait moins evocatif plus poétique, qui fonctionne à travers la surface perforé.
+Entre le premier et le deuxième teste j'ai attribuer des catégories au slots pour rendre l'intéraction plus clair entre l'IA et le user. Je dois develloper plus clairement les catégories pour que l'utilisateur devine mieux ce qu'il se passe (personnage, émotion, lieu etc.) et attribuer un style d'emoji à mettre dans cette catégorie.Je dois aussi dévelloper un style de picto plus abstrait moins evocatif plus poétique, qui fonctionne à travers la surface perforé.
 
