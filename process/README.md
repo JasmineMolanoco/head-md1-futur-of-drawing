@@ -482,3 +482,14 @@ Après Discussion avec Laure et Douglas je me sui rendu compte que ce qui étais
 
 Entre le premier et le deuxième teste j'ai attribuer des catégories au slots pour rendre l'intéraction plus clair entre l'IA et le user. Je dois develloper plus clairement les catégories pour que l'utilisateur devine mieux ce qu'il se passe (personnage, émotion, lieu etc.) et attribuer un style d'emoji à mettre dans cette catégorie.Je dois aussi dévelloper un style de picto plus abstrait moins evocatif plus poétique, qui fonctionne à travers la surface perforé.
 
+
+# 21.12.23 Started building the object at atelier bois + BAD NEWS
+![Building in progress](/process/Images/object-frame-atelier-bois.jpg)
+
+# Gros seum
+My bag with all my important stuff was stollen when we were having a drink after school to celebrate the holidays. I am sad no more computer no more anything :/
+
+# 03.01.24
+
+Got my new computer today I am installing all my stuff, thks to github most of my project was saved!!! 
+

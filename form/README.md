@@ -22,9 +22,23 @@ I. Alimentation et câbles
 ![Storytelling-Fridge Back panel and plexi](/form/3D-prototypes/Storytelling-Fridge-BackPanel-Plexi.png)
 ![Storytelling-Fridge Electronics](/form/3D-prototypes/Storytelling-Fridge-Inside-Electronics.png)
 
-## new version eith frame
+## new version With frame
 
 ![Storytelling-Fridge](/form/3D-prototypes/Storytelling-Fridge-Rounded.png)
 ![Storytelling-Fridge Frame](/form/3D-prototypes/Storytelling-Fridge-Rounded-no-edge.png)
 ![Storytelling-Fridge back](/form/3D-prototypes/Storytelling-Fridge-Rounded-back.png)
 ![Storytelling-Fridge inside](/form/3D-prototypes/Storytelling-Fridge-Rounded-inside.png)
+
+# 19.12.23 closure options for the frame
+![frame closure](/form/croquis/profil-cadre-fermant-object.jpg)
+
+# 21.12.23 Final plan started building the object at atelier bois
+![plan drawing](/form/croquis/Plan-Croquis-Object-final.jpg)
+
+# 03.01.24 emoji form sketch
+![object mesures and Emoji](/form/croquis/mesures-objet-et-emoji.jpg)
+![Emoji plan](/form/croquis/plan-mesure-emoji.jpg)
+
+# 04.01.24 Picto test with AI
+
+![Beta generated picto](/form/Picto-IA/2024-01-04_Test-IA-Generated-Picto-1.png)
