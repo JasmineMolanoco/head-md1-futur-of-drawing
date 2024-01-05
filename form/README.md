@@ -39,6 +39,3 @@ I. Alimentation et câbles
 ![object mesures and Emoji](/form/croquis/mesures-objet-et-emoji.jpg)
 ![Emoji plan](/form/croquis/plan-mesure-emoji.jpg)
 
-# 04.01.24 Picto test with AI
-
-![Beta generated picto](/form/Picto-IA/2024-01-04_Test-IA-Generated-Picto-1.png)

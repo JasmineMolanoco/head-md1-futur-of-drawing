@@ -493,3 +493,12 @@ My bag with all my important stuff was stollen when we were having a drink after
 
 Got my new computer today I am installing all my stuff, thks to github most of my project was saved!!! 
 
+# 04.01.24 Picto test with AI
+
+It's kinda ugly for now hard to communicatw what i want
+
+![Beta generated picto](/form/Picto-IA/2024-01-04_Test-IA-Generated-Picto-1.png)
+
+# 05.01.24 Picto test with GT Maru emoji For the assistant
+
+![Gt maru emoji](/process/Images/2024-01-05-Gt-Maru-emoji-Test1.png)
