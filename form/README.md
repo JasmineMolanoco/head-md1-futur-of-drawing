@@ -39,3 +39,7 @@ I. Alimentation et câbles
 ![object mesures and Emoji](/form/croquis/mesures-objet-et-emoji.jpg)
 ![Emoji plan](/form/croquis/plan-mesure-emoji.jpg)
 
+# 05.01.24 Emoji support object
+Drawned in illustrator the hole pattern to create the dimension of the cliping emoji object
+![Emoji support mesure](/form/croquis/Support-emoji-mesures.png)
+![Emoji support 3D](/form/3D-prototypes/Emoji-support%20v3.png)
