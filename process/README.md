@@ -505,7 +505,18 @@ It's kinda ugly for now hard to communicatw what i want
 
 # 06.01.24 Started code pushed it on git
 
-![Git project source code]()
+![Git project source code](https://github.com/Milonade/StoryTellingFridge)
 Also selected the Emoji for the user
 
 # 07.01.12 Booted raspberry and remote access it from my laptotp
+
+# 08.01.24 Design language
+
+Talk about the overall design language of my object. 
+- For now the priority is on making shure the object is right, everything must fit into each other nicely.
+- Then the interaction demo, clipping the emoji on the surface detecting the RFID tag an displaying a response on the screen
+- The AI picto should be redesign to fit the grid from the perforated MDF. 
+- Making the language between the picto and the emoji cohérent and beautiful
+
+## Inspo for the pixel pictos
+![Joe O’Donnell: Cow and Croc (Copyright © Joe O’Donnell, 2021)](/process/Images/Pixel-picto-inspo/351798d6e9e827d7c4d01a8ec2d9f5e3.jpg)

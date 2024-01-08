@@ -44,6 +44,12 @@ Drawned in illustrator the hole pattern to create the dimension of the cliping e
 ![Emoji support mesure](/form/croquis/Support-emoji-mesures.png)
 ![Emoji support 3D](/form/3D-prototypes/Emoji-support%20v3.png)
 
-# 07.12.24 Plaque perforé test 
+# 07.01.24 Plaque perforé test 
 
 3D printed the perforated surface for test the Emoji doesn't fit in it have to redisgn it :/
+
+# 08.01.24 Design language
+Maybe the apple emoji are not the right direction, I am gonna try with the GT Maru emojis the colored ones would be for the emoji object and the black ones would be redesign to fit the point grid.
+
+![GT Maru by Grilli Type](/form/Img/GT-Maru-Color.png)
+![GT Maru by Grilli Type](/form/Img/GT-Maru-BW.png)
