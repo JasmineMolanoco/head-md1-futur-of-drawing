@@ -502,3 +502,10 @@ It's kinda ugly for now hard to communicatw what i want
 # 05.01.24 Picto test with GT Maru emoji For the assistant
 
 ![Gt maru emoji](/process/Images/2024-01-05-Gt-Maru-emoji-Test1.png)
+
+# 06.01.24 Started code pushed it on git
+
+![Git project source code]()
+Also selected the Emoji for the user
+
+# 07.01.12 Booted raspberry and remote access it from my laptotp
