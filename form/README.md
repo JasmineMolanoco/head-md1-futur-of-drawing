@@ -58,6 +58,9 @@ Maybe the apple emoji are not the right direction, I am gonna try with the GT Ma
 Yesterday's test with 3D printed grid
 ![Yesterday's test with 3D printed grid](/form/Picto-IA/Picto-test/IMG-20240109-WA0007.jpg)
 
+Grid size experiment
+![Grid test](/form/Picto-IA/Grid-experiment.png)
+
 Todays test with laser cuted white plexi directly on the screen
 ![todays test with laser cuted white plexi](/form/Picto-IA/Picto-test/IMG-20240109-WA0009.jpg)
 
