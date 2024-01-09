@@ -520,3 +520,4 @@ Talk about the overall design language of my object.
 
 ## Inspo for the pixel pictos
 ![Joe O’Donnell: Cow and Croc (Copyright © Joe O’Donnell, 2021)](/process/Images/Pixel-picto-inspo/351798d6e9e827d7c4d01a8ec2d9f5e3.jpg)
+

@@ -53,3 +53,27 @@ Maybe the apple emoji are not the right direction, I am gonna try with the GT Ma
 
 ![GT Maru by Grilli Type](/form/Img/GT-Maru-Color.png)
 ![GT Maru by Grilli Type](/form/Img/GT-Maru-BW.png)
+
+# 09.01.24 Evolution of picto design
+Yesterday's test with 3D printed grid
+![Yesterday's test with 3D printed grid](/form/Picto-IA/Picto-test/IMG-20240109-WA0007.jpg)
+
+Todays test with laser cuted white plexi directly on the screen
+![todays test with laser cuted white plexi](/form/Picto-IA/Picto-test/IMG-20240109-WA0009.jpg)
+
+White plexi a few mm of the screen
+![White plexi a few mm of the screen](/form/Picto-IA/Picto-test/IMG-20240109-WA0005.jpg)
+
+Thicker transparent sanded plexi on screen
+![Thicker transparent sanded plexi on screen](/form/Picto-IA/Picto-test/IMG-20240109-WA0010.jpg)
+
+Thicker transparent sanded plexi a few mm of the screen
+![Thicker transparent sanded plexi a few mm of the screen](/form/Picto-IA/Picto-test/IMG-20240109-WA0006.jpg)
+
+Both
+![Both](/form/Picto-IA/Picto-test/IMG-20240109-WA0011.jpg)
+
+I think the best choice is the Thicker sanded plexi I like the way it diffuses partialy the light.
+I won't have the MDF anmore just the thicker plexi and we would see the electronics like a gameboy color.
+
+![Gameboy Color](/form/Img/gameboy-color.jpg)
