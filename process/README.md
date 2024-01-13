@@ -521,3 +521,13 @@ Talk about the overall design language of my object.
 ## Inspo for the pixel pictos
 ![Joe O’Donnell: Cow and Croc (Copyright © Joe O’Donnell, 2021)](/process/Images/Pixel-picto-inspo/351798d6e9e827d7c4d01a8ec2d9f5e3.jpg)
 
+# 11.01.24 Atelir bois, laser cut the Plexiglas
+
+Spend the day waiting at atelier bois but didn't built nothing, prepared a bit of the presentation, and cut the plexiglas at the atelier maquette.
+
+## Talk with Douglas
+
+The picto design for the screeen should play more with the transparence of the plexiglas, but still fallow the grid.
+![Croquis picto](/process/Images/Croqui-grid-picto.jpg)
+
+Also for the physical Emoji the face should be 3D printed on them.

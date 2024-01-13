@@ -44,6 +44,17 @@ Drawned in illustrator the hole pattern to create the dimension of the cliping e
 ![Emoji support mesure](/form/croquis/Support-emoji-mesures.png)
 ![Emoji support 3D](/form/3D-prototypes/Emoji-support%20v3.png)
 
+## Prompte testing
+Write a ____ short story of 4 paragraphe where the protagonist is ____ . This story is happening at ____. The main conflict of the story is ____. 
+
+Write a funny banana short story of 4 paragraphe where the protagonist is an angry dying . This story is happening at a fire moutain. The main conflict of the story is eye frog.
+
+> Once upon a sizzling afternoon, in the heart of the Fire Mountain, there lived a banana named Barry who was not only ripe but also excessively angry. Barry was furious because he had been peeled by an overenthusiastic monkey who didn't appreciate the value of personal space. Now, basking in the molten glow of the lava, Barry's anger intensified as he felt his life slipping away – or rather, slipping down his banana peel.
+As Barry raged against the injustice of being prematurely peeled, he noticed a peculiar creature hopping towards him. This was no ordinary frog; it was an eye frog, known for its uncanny ability to stare at things with its big, unblinking eyes. The eye frog stared at Barry with an intensity that made the volcanic surroundings seem downright tepid.
+Barry, already enraged, couldn't tolerate the unblinking gaze of the eye frog. In a fit of banana fury, he wiggled and jiggled, trying to escape the relentless scrutiny. However, the eye frog was undeterred, maintaining its unbroken eye contact as if it had never seen a raging banana in a fiery mountain before.
+The standoff between Barry and the eye frog continued, creating a spectacle that even the lava bubbling nearby found amusing. Despite the dire circumstances of Barry's imminent demise, the absurdity of the eye frog's unwavering gaze managed to inject a dash of humor into the volcanic turmoil. And so, in the midst of a hot-headed banana's final moments, laughter echoed through the Fire Mountain, all thanks to an eye frog with an insatiable curiosity.
+>
+
 # 07.01.24 Plaque perforé test 
 
 3D printed the perforated surface for test the Emoji doesn't fit in it have to redisgn it :/
@@ -57,6 +68,7 @@ Maybe the apple emoji are not the right direction, I am gonna try with the GT Ma
 # 09.01.24 Evolution of picto design
 Yesterday's test with 3D printed grid
 ![Yesterday's test with 3D printed grid](/form/Picto-IA/Picto-test/IMG-20240109-WA0007.jpg)
+![Picto drawing test](/form/Picto-IA/Picto-test/Capture%20d'écran%202024-01-10%20182028.png)
 
 Grid size experiment
 ![Grid test](/form/Picto-IA/Grid-experiment.png)
@@ -80,3 +92,14 @@ I think the best choice is the Thicker sanded plexi I like the way it diffuses p
 I won't have the MDF anmore just the thicker plexi and we would see the electronics like a gameboy color.
 
 ![Gameboy Color](/form/Img/gameboy-color.jpg)
+
+# 12.01.24 Picto redesign and 3D print
+
+Evolution of the emoji design
+![Evolution of the design](/form/Picto-IA/Picto-test/evolution-emoji-face.jpg)
+
+Final Emojis
+![Final Emojis](/form/Picto-IA/Picto-test/final-emojis.jpg)
+
+Painting test with figurine paint, it looks good I need to buy the right color
+![Painting test](/form/Picto-IA/Picto-test/painting-test.jpg)
