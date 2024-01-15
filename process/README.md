@@ -531,3 +531,5 @@ The picto design for the screeen should play more with the transparence of the p
 ![Croquis picto](/process/Images/Croqui-grid-picto.jpg)
 
 Also for the physical Emoji the face should be 3D printed on them.
+
+# 13-14.01.24 Worked on presentation, Started coding on arduino, Made electric schematic, painted an emoji
