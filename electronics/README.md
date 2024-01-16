@@ -18,4 +18,11 @@ Tthe more accessible solution for the time we have is to use NFC tags on the mag
 # 12.12.23 Soldering exercice
 ![Soldering exercice](/electronics/Images/Soldering-ex1.jpg)
 ![Soldering exercice](/electronics/Images/Soldering-ex2.jpg)
-![Soldering exercice](/electronics/Images/Soldering-ex3.jpg)
+![Soldering exercice](/electronics/Images/Soldering-ex3.jpg)¨
+
+# 03.01.24 Setup raspberry project
+
+# 12.01.24 Switched to arduino since I am not gonna have time to do the ChatGPT API
+
+# 16.01.24
+So none of my code really worked they only detect the RFID tag but I can't display my images :/ So I decided to present a figma to simulate my interaction for the presentation.

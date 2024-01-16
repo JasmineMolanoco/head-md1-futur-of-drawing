@@ -533,3 +533,6 @@ The picto design for the screeen should play more with the transparence of the p
 Also for the physical Emoji the face should be 3D printed on them.
 
 # 13-14.01.24 Worked on presentation, Started coding on arduino, Made electric schematic, painted an emoji
+
+# 15-16.01.24 Everything everywhere all at once
+The wood workshop was quite chaotic but I managed to build the object. I also made the picto for the AI and painted the emoji. I also made the electric schematic. the presentation and bla bla bla... I am tired but I am proud of my work :) 

@@ -103,3 +103,6 @@ Final Emojis
 
 Painting test with figurine paint, it looks good I need to buy the right color
 ![Painting test](/form/Picto-IA/Picto-test/painting-test.jpg)
+
+# 16.01.24 Designed last pictos
+![Last pictos](/form/Picto-IA/Picto-test/last-version.png)   
